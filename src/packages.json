@@ -1,0 +1,38 @@
+{
+    "name": "@justin Swift Packages",
+    "overview": "My Swift Package Collection containing my (almost) always used packages.",
+    "author": {
+        "name": "Justin Williams"
+    },
+    "keywords": ["swift", "core data", "uikit", "xctest", "swiftui"],
+    "packages": [
+        {
+            "url": "https://github.com/justin/jww-standard-lib.git",
+            "keywords": ["Foundation", "Logging"]
+        },
+        {
+            "url": "https://github.com/justin/jww-uikit-extensions.git",
+            "keywords": ["UIKit"]
+        },
+        {
+            "url": "https://github.com/justin/jww-swiftui-extensions.git",
+            "keywords": ["SwiftUI"]
+        },
+        {
+            "url": "https://github.com/justin/jww-core-data.git",
+            "keywords": ["Core Data"]
+        },
+        {
+            "url": "https://github.com/justin/jww-xctest-extensions.git",
+            "keywords": ["XCTest"]
+        },
+        {
+            "url": "https://github.com/justin/jww-error-reporting.git",
+            "keywords": ["Error Reporting", "NSError"]
+        },
+        {
+            "url": "https://github.com/justin/jww-networking.git",
+            "keywords": ["Networking", "URLSession"]
+        }
+    ]
+}
